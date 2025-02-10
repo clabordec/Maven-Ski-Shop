@@ -1,6 +1,14 @@
 # Maven Ski Shop
 
-Welcome to **Maven Ski Shop**, a Python-powered application designed to manage ski shop operations efficiently. This repository contains the necessary tools for inventory management, customer orders, and ski rental tracking.
+## Project Overview
+The Maven Ski Shop project is designed to enhance your foundational Python skills in data analysis and business intelligence through practical, real-world applications. In this project, you will assume the role of a newly hired Data Analyst at Maven Ski Shop, a leading retailer specializing in skis, snowboards, and winter gear. The company is transitioning to Python as its primary tool for managing inventory, pricing, and promotions to support scalable growth.
+
+## Objectives
+- **Data Processing**: Handle missing data fields to ensure data integrity.
+- **Data Reshaping and Aggregation**: Transform and summarize transactional data for meaningful analysis.
+- **Key Performance Indicators (KPIs)**: Calculate essential metrics to evaluate the success of the Black Friday promotion.
+- **Insight Generation**: Derive actionable insights from the sales data to inform strategic decisions.
+- **Data Pipeline Development**: Construct a simple data pipeline and export the processed data to Excel for sharing with leadership.
 
 ## Features
 - **Inventory Management**: Track available skis, boots, and gear.
