@@ -48,7 +48,7 @@ Develop data pipelines to automate the extraction, transformation, and loading (
 ---
 
 ## Key Concepts
-### 1. Data Cleaning and Preprocessing**
+### 1. Data Cleaning and Preprocessing
    - **Handling Missing Data**: Identify and fill or remove missing values to ensure data integrity.
    - **Data Transformation**: Convert data into appropriate formats for analysis, such as parsing dates or standardizing categorical variables.
 
