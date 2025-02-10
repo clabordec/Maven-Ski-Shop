@@ -47,6 +47,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 **Author**: Chaanyah Laborde <br>
-**Email**: [chaanyahlaborde@gmail.com](mailto:chaanyahlaborde@gmail.com)
+**Email**: [chaanyahlaborde@gmail.com](mailto:chaanyahlaborde@gmail.com) <br>
 **LinedIn**: [claborde](https://www.linkedin.com/in/claborde/)
 
