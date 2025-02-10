@@ -46,5 +46,7 @@ Contributions are welcome! Feel free to submit a pull request.
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, reach out at [chaanyahlaborde@gmail.com](mailto:chaanyahlaborde@gmail.com).
+**Author**: Chaanyah Laborde <br>
+**Email**: [chaanyahlaborde@gmail.com](mailto:chaanyahlaborde@gmail.com)
+**LinedIn**: [claborde](https://www.linkedin.com/in/claborde/)
 
