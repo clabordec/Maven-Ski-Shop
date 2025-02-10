@@ -10,6 +10,8 @@ The Maven Ski Shop project is designed to enhance your foundational Python skill
 - **Insight Generation**: Derive actionable insights from the sales data to inform strategic decisions.
 - **Data Pipeline Development**: Construct a simple data pipeline and export the processed data to Excel for sharing with leadership.
 
+---
+
 ## Features
 - **Inventory Management**: Track available skis, boots, and gear.
 - **Customer Orders**: Process sales and rental orders with ease.
