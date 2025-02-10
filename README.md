@@ -45,37 +45,26 @@ Analyze pricing data to determine optimal pricing strategies that maximize profi
 
 Develop data pipelines to automate the extraction, transformation, and loading (ETL) of data from various sources into a centralized database or analytics platform.
 
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/maven-ski-shop.git
-   cd maven-ski-shop
-   ```
-2. Create a virtual environment:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+---
 
-## Usage
-1. Run the main application:
-   ```bash
-   python main.py
-   ```
-2. Follow on-screen instructions to manage inventory and orders.
+## Key Concepts
+### 1. Data Cleaning and Preprocessing**
+   - **Handling Missing Data**: Identify and fill or remove missing values to ensure data integrity.
+   - **Data Transformation**: Convert data into appropriate formats for analysis, such as parsing dates or standardizing categorical variables.
 
-## Configuration
-Modify `config.py` to set up database connections and other parameters.
+### 2. Data Reshaping and Aggregation
+   - **Pivot Tables**: Use pivot tables to summarize data, facilitating the calculation of key performance indicators (KPIs).
+   - **Grouping Data**: Group data by specific attributes (e.g., product categories) to perform aggregated calculations like total sales or average discounts.
 
-## Contributing
-Contributions are welcome! Feel free to submit a pull request.
+### 3. KPI Calculation and Insight Generation:
+   - **Sales Metrics**: Compute metrics such as total revenue, average order value, and sales growth rates.
+   - **Customer Analysis**: Analyze customer data to determine metrics like repeat purchase rate or customer lifetime value.
 
-## License
-This project is licensed under the MIT License.
+### 4.Data Pipeline Development and Export:
+   - **Automated Data Processing**: Create scripts to automate data extraction, transformation, and loading (ETL) processes.
+   - **Exporting Results**: Utilize libraries like openpyxl to export processed data and analysis results to Excel for reporting purposes.
+
+---
 
 ## Contact
 **Author**: Chaanyah Laborde <br>
