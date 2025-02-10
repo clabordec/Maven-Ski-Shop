@@ -18,10 +18,32 @@ The Maven Ski Shop project is designed to enhance your foundational Python skill
 - **Rental System**: Manage ski rental check-ins and check-outs.
 - **Data Persistence**: Store and retrieve data efficiently using a database.
 
-## Requirements
-Ensure you have the following installed:
-- Python 3.8+
-- Required dependencies (listed in `requirements.txt`)
+--- 
+
+## Use Cases
+**1. Inventory Management**
+
+Efficiently track and manage the stock levels of skis, snowboards, and winter gear. This includes monitoring incoming shipments, current stock, and sold items to ensure optimal inventory levels.
+
+2. Sales Analysis
+
+Analyze sales data to identify trends, peak sales periods, and top-performing products. This analysis aids in understanding customer preferences and optimizing sales strategies.
+
+3. Promotion Effectiveness
+
+Evaluate the success of marketing campaigns, such as Black Friday promotions, by calculating key performance indicators (KPIs) like total sales revenue, average transaction value, and customer acquisition rates.
+
+4. Customer Segmentation
+
+Segment customers based on purchasing behavior, demographics, or preferences to tailor marketing efforts and improve customer satisfaction.
+
+5. Pricing Strategy
+
+Analyze pricing data to determine optimal pricing strategies that maximize profit margins while remaining competitive in the market.
+
+6. Data Pipeline Development
+
+Develop data pipelines to automate the extraction, transformation, and loading (ETL) of data from various sources into a centralized database or analytics platform.
 
 ## Installation
 1. Clone this repository:
