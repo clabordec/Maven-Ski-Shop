@@ -1,7 +1,7 @@
 # Maven Ski Shop
 
 ## Project Overview
-The Maven Ski Shop project is designed to enhance your foundational Python skills in data analysis and business intelligence through practical, real-world applications. In this project, you will assume the role of a newly hired Data Analyst at Maven Ski Shop, a leading retailer specializing in skis, snowboards, and winter gear. The company is transitioning to Python as its primary tool for managing inventory, pricing, and promotions to support scalable growth.
+The Maven Ski Shop is designed to enhance the foundational Python skills in data analysis and business intelligence through practical, real-world applications. In this project, you will assume the role of a newly hired Data Analyst at Maven Ski Shop, a leading retailer specializing in skis, snowboards, and winter gear. The company is transitioning to Python as its primary tool for managing inventory, pricing, and promotions to support scalable growth.
 
 ## Objectives
 - **Data Processing**: Handle missing data fields to ensure data integrity.
