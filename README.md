@@ -60,7 +60,7 @@ Develop data pipelines to automate the extraction, transformation, and loading (
    - **Sales Metrics**: Compute metrics such as total revenue, average order value, and sales growth rates.
    - **Customer Analysis**: Analyze customer data to determine metrics like repeat purchase rate or customer lifetime value.
 
-### 4.Data Pipeline Development and Export:
+### 4. Data Pipeline Development and Export:
    - **Automated Data Processing**: Create scripts to automate data extraction, transformation, and loading (ETL) processes.
    - **Exporting Results**: Utilize libraries like openpyxl to export processed data and analysis results to Excel for reporting purposes.
 
